@@ -7,7 +7,7 @@
 ![](https://wddf19home.files.wordpress.com/2019/09/coding-freak.gif?w=400)
 ****
   
-- 💖 Una de las cosas que más nos gusta es trabajar con **CSS y Javascript**. Nos encantan todos los temas de diseño web, com son los colores, las fuentes y la composición.
+- 💖 Una de las cosas que más nos gusta es trabajar con **CSS y Javascript**. Nos encantan todos los temas de diseño web, como son los colores, las fuentes y la composición.
 - 👯 Estamos abiertos a colaborar!
 - 💬 Puedes realizarnos cualquier consulta relacionada con el material que explicamos en nuestros vídeos.
 - 🎥 Nuestro canal de youtube es <a href="https://www.youtube.com/channel/UClmcDeaz6DrSJ85-E3fY3Pg">Javascript DeNoobAPro</a>
